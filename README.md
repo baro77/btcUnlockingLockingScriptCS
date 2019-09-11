@@ -1,6 +1,6 @@
 # BTC (Un)Locking Scripts Cheatsheet
 
-Sharing my self-study notes about main flavours (as of Q3 2019) of Bitcoin Locking and Unlocking Scripts; I have edited them in this recap cheatsheet, hoping to give back something to the community from which I got a lot in last couple of years (On [Medium](https://medium.com/@baro77/btc-locking-and-unlocking-scripts-cheatsheet-ff6d515447de) you can find some more words about my motivations)
+Sharing my self-study notes about main flavours (as of Q3 2019) of Bitcoin Locking and Unlocking Scripts; I have edited them in this recap cheatsheet, hoping to give back something to the community from which I got a lot in last couple of years! (On [Medium](https://medium.com/@baro77/btc-locking-and-unlocking-scripts-cheatsheet-ff6d515447de) you can find some more words about my motivations)
 
 Just some of the many credits:
 - Andreas M. Antonopoulos’s [Mastering Bitcoin 2nd Ed.](https://bitcoinbook.info/) – O’Reilly (especially chapters 4, 6, 7, appendixes B and D)
